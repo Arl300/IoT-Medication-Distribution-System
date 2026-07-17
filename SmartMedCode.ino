@@ -1,4 +1,4 @@
-//code by Arlinda Recaj. Last modified: 08 June 2026
+
 
 #include <WiFi.h>
 #include <ESP32Servo.h>
