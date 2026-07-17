@@ -1,5 +1,3 @@
-
-
 #include <WiFi.h>
 #include <ESP32Servo.h>
 #include <WiFiClientSecure.h>
