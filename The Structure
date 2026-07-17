@@ -1,0 +1,23 @@
+iot-medication-distribution-system/
+
+│
+├── Firmware/
+│
+├── Desktop-Application/
+│
+├── Hardware/
+│   ├── Schematics/
+│   ├── Circuit/
+│   ├── Images/
+│   ├── Components/
+│   └── Wiring/
+│
+├── Documentation/
+│
+├── Images/
+│
+├── Videos/
+│
+├── README.md
+│
+└── LICENSE
